@@ -59,13 +59,13 @@
 	</div>
 </section>
 
-<section class="row">
+<!--<section class="row">
 	<div class="container">
 
 		<img id="ven-diagram" src="" />
 
 	</div>
-</section>
+</section>-->
 
 <section class="row">
 	<div class="container">
