@@ -45,6 +45,22 @@
   </div>
 </div>
 
+<div id="modal-contact-confirm" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+
+    	<div class="modal-header">
+    		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+    		<h2>Thanks for getting in touch!</h2>
+    	</div>
+    	<div class="modal-body">
+			<p>Lorem ipsum...</p>
+		</div>
+
+    </div>
+  </div>
+</div>
+
 <script type="text/javascript" src="/library/js/lib/jquery-1.9.0.min.js"></script>
 <script type="text/javascript" src="/library/js/lib/bootstrap.min.js"></script>
 <script type="text/javascript" src="/library/js/main.js"></script>
