@@ -22,6 +22,7 @@
 		<div id="tagline" class="col-lg-offset-2 col-lg-8"><b>Motion Revolution</b> is a community of movements artists, technology innovators, and media creators united under one roof in Boston, MA.</div>
 
 		<div class="feature col-sm-4">
+			<div class="feature-icon move"></div>
 			<h3>Move.</h3>
 			<p>Unleash your human potential through parkour, freerunning, tricking and dance classes and open gym sessions. The movement center features:</p>
 			<ul>
@@ -33,6 +34,7 @@
 		</div>
 
 		<div class="feature col-sm-4">
+			<div class="feature-icon build"></div>
 			<h3>Build.</h3>
 			<p>Work on your latest project or with your startup team in a unique environment. Shared resources mean low overhead costs. The innovation center features:</p>
 			<ul>
@@ -44,6 +46,7 @@
 		</div>
 
 		<div class="feature col-sm-4">
+			<div class="feature-icon create"></div>
 			<h3>Create.</h3>
 			<p>Immerse yourself in the world of digital media, join forces with fellow creatives and designers, or take a workshop and learn a new skill. The multimedia center features:</p>
 			<ul>
