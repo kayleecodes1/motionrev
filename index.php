@@ -75,12 +75,12 @@
 		</div>
 
 		<div class="col-lg-8">
-			<form id="form-contact" method="post" action="">
-				<input type="text" name="name" placeholder="Name" />
-				<input type="text" name="email" placeholder="Email" />
-				<input type="text" name="subject" placeholder="Subject" />
-				<textarea name="message" placeholder="Enter your message" rows="6"></textarea>
-				<input type="submit" value="Submit" />
+			<form id="form-contact" method="post" action="sendEmail.php">
+                                <input type="text" name="name" id="name" value="Your name" onfocus="if (this.value == 'Your name') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Your name';}"/>
+                                <input type="text" name="email" id="email" value="Your email" onfocus="if (this.value == 'Your email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Your email';}"/>
+                                <input type="text" name="subject" id="subject" value="Subject" onfocus="if (this.value == 'Subject') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Subject';}"/>
+                                <textarea name="message" id="message" rows="6" cols="30" onfocus="if (this.value == 'Enter your message') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your message';}">Enter your message</textarea>	
+				<input type="submit" name="submit" id="submit" value="Submit!" />
 				<div class="clearfix"></div>
 			</form>
 		</div>
