@@ -75,7 +75,7 @@
 		</div>
 
 		<div class="col-lg-8">
-			<form id="form-contact" method="post" action="http://208.113.248.61/sendEmail.php">
+			<form id="form-contact" method="post" action="sendEmail.php">
                                 <input type="text" name="name" id="name" value="Your name" onfocus="if (this.value == 'Your name') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Your name';}"/>
                                 <input type="text" name="email" id="email" value="Your email" onfocus="if (this.value == 'Your email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Your email';}"/>
                                 <input type="text" name="subject" id="subject" value="Subject" onfocus="if (this.value == 'Subject') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Subject';}"/>
