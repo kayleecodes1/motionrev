@@ -19,7 +19,7 @@
 <section class="row">
 	<div class="container">
 
-		<div id="tagline" class="col-lg-offset-2 col-lg-8"><b>Motion Revolution</b> is a community of movements artists, technology innovators, and media creators united under one roof in Boston, MA.</div>
+		<div id="tagline" class="col-md-offset-2 col-md-8"><b>Motion Revolution</b> is a community of movements artists, technology innovators, and media creators united under one roof in Boston, MA.</div>
 
 		<div class="feature col-sm-4">
 			<div class="feature-icon move"></div>
